@@ -1,0 +1,7 @@
+# exercise-repo
+Repo made for exercise
+<<<<<<< .merge_file_a08016
+This will make a conflict!
+=======
+Making some changes here!
+>>>>>>> .merge_file_a04676
